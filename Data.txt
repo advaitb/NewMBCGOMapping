@@ -1,0 +1,9 @@
+Data	Version	Value
+Level 1 SCPs	MBC v1	27
+Level 1 SCPs	MBC v2	35
+Level 2 SCPs	MBC v1	124
+Level 2 SCPs	MBC v2	189
+Level 3 SCPs	MBC v1	486
+Level 3 SCPs	MBC v2	620
+Level 4 SCPs	MBC v1	115
+Level 4 SCPs	MBC v2	140

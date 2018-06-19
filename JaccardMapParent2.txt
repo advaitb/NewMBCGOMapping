@@ -1,0 +1,99 @@
+Level1ProcessMBCO	JI
+Cellular communication	0.03571428571428571
+Cellular communication	0.14285714285714285
+Electric transmission	0.088
+Electric transmission	0.16666666666666666
+Organelle organization	0.02857142857142857
+Cell cycle and cell division	0.19617224880382775
+Cell cycle and cell division	0.13114754098360656
+Cell cycle and cell division	0.078125
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.14754098360655737
+Cell cycle and cell division	0.057971014492753624
+Cell cycle and cell division	0.016666666666666666
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.11363636363636363
+DNA replication, recombination and repair	0.07446808510638298
+DNA replication, recombination and repair	0.05747126436781609
+DNA replication, recombination and repair	0.27058823529411763
+DNA replication, recombination and repair	0.0
+Cellular ion homeostasis	0.09722222222222222
+Cellular ion homeostasis	0.18421052631578946
+Cellular ion homeostasis	0.08421052631578947
+Cellular ion homeostasis	0.2119205298013245
+Cellular ion homeostasis	0.09302325581395349
+Cellular ion homeostasis	0.07407407407407407
+Cellular ion homeostasis	0.02857142857142857
+Cellular ion homeostasis	0.04477611940298507
+Cellular ion homeostasis	0.06666666666666667
+Cellular ion homeostasis	0.3120567375886525
+Cellular ion homeostasis	0.09230769230769231
+Cellular ion homeostasis	0.08641975308641975
+Cellular ion homeostasis	0.08080808080808081
+Cellular ion homeostasis	0.12903225806451613
+Cellular ion homeostasis	0.15555555555555556
+Cellular ion homeostasis	0.1794871794871795
+Cellular ion homeostasis	0.034482758620689655
+Cellular ion homeostasis	0.23529411764705882
+Cellular ion homeostasis	0.0
+Cellular ion homeostasis	0.08
+Cellular ion homeostasis	0.15730337078651685
+Cellular ion homeostasis	0.07792207792207792
+Cellular ion homeostasis	0.26666666666666666
+Cellular ion homeostasis	0.375
+Cellular ion homeostasis	0.3333333333333333
+Cellular ion homeostasis	0.2
+Cellular ion homeostasis	0.22727272727272727
+Cellular ion homeostasis	0.5
+Cellular ion homeostasis	0.2631578947368421
+Cellular redox homeostasis	0.125
+Cellular redox homeostasis	0.02032520325203252
+Cellular redox homeostasis	0.0380952380952381
+Transmembrane protein import and translocation	0.3076923076923077
+Intracellular vesicle traffic	0.16666666666666666
+Intracellular vesicle traffic	0.12280701754385964
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.04716981132075472
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.004545454545454545
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.04716981132075472
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Chromatin and histone dynamics	0.2347417840375587
+Chromatin and histone dynamics	0.3305084745762712
+Chromatin and histone dynamics	0.09561752988047809
+Gene expression	0.00684931506849315
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.12658227848101267
+Coagulation cascade, complement system and blood protein dynamics	0.15544041450777202
+Coagulation cascade, complement system and blood protein dynamics	0.29310344827586204
+Posttranslational protein modification	0.1724137931034483
+Posttranslational protein modification	0.0
+Cytoskeleton dynamics	0.1314878892733564
+Cytoskeleton dynamics	0.17518248175182483
+Cytoskeleton dynamics	0.20512820512820512
+Cell junction dynamics	0.06666666666666667
+Cell junction dynamics	0.0880281690140845
+Cell junction dynamics	0.11242603550295859
+Extracellular matrix homeostasis	0.12698412698412698
+Extracellular matrix homeostasis	0.029411764705882353
+Extracellular matrix homeostasis	0.07894736842105263
+Regulated cell death	0.21875
+Regulated cell death	0.2222222222222222
+Regulated cell death	0.22580645161290322
+Intracellular degradation pathways	0.25136612021857924
+Intracellular degradation pathways	0.125
+Energy generation and metabolism of cellular monomers	0.05454545454545454
+Lipid metabolism	0.2347560975609756
+Lipid metabolism	0.1702127659574468
+Lipid metabolism	0.0
+Lipid metabolism	0.14754098360655737
+Lipid metabolism	0.17391304347826086
+Cell differentiation	0.007194244604316547
+Cell differentiation	0.13846153846153847

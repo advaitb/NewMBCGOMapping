@@ -1,0 +1,440 @@
+MBCO	GO
+PI3 kinase AKT signaling cascade	protein kinase B signaling
+TIRAP signaling cascade	TIRAP-dependent toll-like receptor signaling pathway
+MyD88 signaling cascade	MyD88-dependent toll-like receptor signaling pathway
+MAPK signaling cascade	MAPK cascade
+Erk signaling pathway	ERK1 and ERK2 cascade;regulation of ERK1 and ERK2 cascade
+SAPK-JNK signaling cascade	JNK cascade;regulation of JNK cascade
+Nitric oxide signaling cascade	nitric oxide mediated signal transduction
+JAK-STAT signaling cascade	JAK-STAT cascade
+NFkB signaling cascade	I-kappaB kinase/NF-kappaB signaling
+Calcineurin-NFAT signaling cascade	regulation of calcineurin-NFAT signaling cascade
+Protein kinase C signaling cascade	protein kinase C signaling
+Mammalian target of rapamycin signaling cascade	TOR signaling
+Insulin receptor signaling	insulin receptor signaling pathway
+Peroxisome proliferator-activated receptor alpha signaling	peroxisome proliferator activated receptor signaling pathway
+Peroxisome proliferator-activated receptor gamma signaling	peroxisome proliferator activated receptor signaling pathway
+Thyroid hormone receptor signaling	thyroid hormone mediated signaling pathway
+Calcitonin receptor signaling	calcitonin family receptor signaling pathway
+Steroid and sex hormone signaling	intracellular steroid hormone receptor signaling pathway;regulation of intracellular steroid hormone receptor signaling pathway
+Estrogen receptor signaling	intracellular estrogen receptor signaling pathway;regulation of intracellular estrogen receptor signaling pathway
+Progesterone receptor signaling	progesterone receptor signaling pathway
+Androgen receptor signaling	androgen receptor signaling pathway;regulation of androgen receptor signaling pathway
+Glucocorticoid receptor signaling	glucocorticoid receptor signaling pathway
+Alpha 1 adrenergic receptor signaling	adrenergic receptor signaling pathway
+Alpha 2 adrenergic receptor signaling	adrenergic receptor signaling pathway
+Beta adrenergic receptor signaling	adrenergic receptor signaling pathway
+Muscarinic acetylcholine receptor signaling	G-protein coupled acetylcholine receptor signaling pathway
+Purinergic P1 receptor signaling	purinergic receptor signaling pathway
+Purinergic P2X receptor signaling	purinergic receptor signaling pathway
+Purinergic P2Y receptor signaling	purinergic receptor signaling pathway
+TNF superfamily signaling	tumor necrosis factor-mediated signaling pathway
+Tumor necrosis factor alpha receptor signaling	tumor necrosis factor-mediated signaling pathway
+Somatostatin receptor signaling	somatostatin receptor signaling pathway
+Nerve growth factor receptor signaling	nerve growth factor signaling pathway
+Roundabout signaling	Roundabout signaling pathway
+Semaphorin signaling	semaphorin-plexin signaling pathway
+Thromboxane receptor signaling	thromboxane A2 signaling pathway
+Bone morphogenetic protein receptor signaling	BMP signaling pathway
+Transforming growth factor beta receptor signaling	transforming growth factor beta receptor signaling pathway;regulation of transforming growth factor beta receptor signaling pathway
+Activin receptor signaling	activin receptor signaling pathway;regulation of activin receptor signaling pathway
+Toll-like receptor signaling	toll-like receptor signaling pathway
+Toll-like receptor 1 signaling	toll-like receptor 1 signaling pathway
+Toll-like receptor 2 signaling	toll-like receptor 2 signaling pathway
+Toll-like receptor 3 signaling	toll-like receptor 3 signaling pathway
+Toll-like receptor 4 signaling	toll-like receptor 4 signaling pathway
+Toll-like receptor 5 signaling	toll-like receptor 5 signaling pathway
+Toll-like receptor 6 signaling	toll-like receptor 6 signaling pathway
+Toll-like receptor 7 signaling	toll-like receptor 7 signaling pathway
+Toll-like receptor 8 signaling	toll-like receptor 8 signaling pathway
+Toll-like receptor 9 signaling	toll-like receptor 9 signaling pathway
+Toll-like receptor 10 signaling	toll-like receptor 10 signaling pathway
+Toll-like receptor 11 signaling	toll-like receptor 11 signaling pathway
+Toll-like receptor 12 signaling	toll-like receptor 12 signaling pathway
+Toll-like receptor 13 signaling	toll-like receptor 13 signaling pathway
+Toll-like receptor 21 signaling	toll-like receptor 21 signaling pathway
+Oncostatin-M receptor signaling	oncostatin-M-mediated signaling pathway
+Thrombopoietin receptor signaling	thrombopoietin-mediated signaling pathway
+Epidermal growth factor receptor signaling	epidermal growth factor receptor signaling pathway;regulation of epidermal growth factor receptor signaling pathway
+Fibroblast growth factor receptor signaling	fibroblast growth factor receptor signaling pathway;regulation of fibroblast growth factor receptor signaling pathway
+Platelet-derived growth factor receptor signaling	platelet-derived growth factor receptor signaling pathway;regulation of platelet-derived growth factor receptor signaling pathway
+Vascular endothelial growth factor receptor signaling	vascular endothelial growth factor receptor signaling pathway
+Insulin-like growth factor receptor signaling	insulin-like growth factor receptor signaling pathway;regulation of insulin-like growth factor receptor signaling pathway
+WNT-Beta-catenin signaling pathway	Wnt signaling pathway
+Ephrin receptor signaling	ephrin receptor signaling pathway
+Notch receptor signaling	Notch signaling pathway;regulation of Notch signaling pathway
+Hippo signaling	hippo signaling;regulation of hippo signaling
+Growth hormone receptor signaling	growth hormone receptor signaling pathway
+Retinoic acid receptor signaling	retinoic acid receptor signaling pathway;regulation of retinoic acid receptor signaling pathway
+Interferon receptor signaling	type I interferon signaling pathway
+Interferon gamma receptor signaling	interferon-gamma-mediated signaling pathway;regulation of interferon-gamma-mediated signaling pathway
+Rhodopsin receptor signaling	rhodopsin mediated signaling pathway;regulation of rhodopsin mediated signaling pathway
+Interleukin 1 receptor signaling	interleukin-1-mediated signaling pathway
+Interleukin 2 receptor signaling	interleukin-2-mediated signaling pathway
+Interleukin 3 receptor signaling	interleukin-3-mediated signaling pathway
+Interleukin 4 receptor signaling	interleukin-4-mediated signaling pathway
+Interleukin 5 receptor signaling	interleukin-5-mediated signaling pathway
+Interleukin 6 receptor signaling	interleukin-6-mediated signaling pathway
+Interleukin 7 receptor signaling	interleukin-7-mediated signaling pathway
+Interleukin 8 receptor signaling	interleukin-8-mediated signaling pathway
+Interleukin 9 receptor signaling	interleukin-9-mediated signaling pathway
+Interleukin 11 receptor signaling	interleukin-11-mediated signaling pathway
+Interleukin 12 receptor signaling	interleukin-12-mediated signaling pathway
+Interleukin 13 receptor signaling	interleukin-13-mediated signaling pathway
+Interleukin 15 receptor signaling	interleukin-15-mediated signaling pathway
+Interleukin 18 receptor signaling	interleukin-18-mediated signaling pathway
+Interleukin 21 receptor signaling	interleukin-21-mediated signaling pathway
+Interleukin 23 receptor signaling	interleukin-23-mediated signaling pathway
+Interleukin 27 receptor signaling	interleukin-27-mediated signaling pathway
+Interleukin 33 receptor signaling	interleukin-33-mediated signaling pathway
+B cell receptor signaling	B cell receptor signaling pathway;regulation of B cell receptor signaling pathway
+T cell receptor signaling	T cell receptor signaling pathway;regulation of T cell receptor signaling pathway
+Fc receptor signaling	Fc receptor signaling pathway;Fc receptor mediated stimulatory signaling pathway
+Control of postsynaptic potential	regulation of postsynaptic membrane potential
+Dopamine-mediated control of postsynaptic potential	regulation of synaptic transmission, dopaminergic
+GABA-mediated control of postsynaptic potential	regulation of synaptic transmission, GABAergic
+Glutamate-mediated control of postsynaptic potential	regulation of synaptic transmission, glutamatergic
+Acetylcholine-mediated control of postsynaptic potential	synaptic transmission, cholinergic
+Serotonin-mediated control of postsynaptic potential	serotonin receptor signaling pathway
+Cardiomyocyte action potential generation and propagation	cardiac muscle cell action potential
+Cardiomyocyte depolarization during action potential	membrane depolarization during cardiac muscle cell action potential
+Cardiomyocyte repolarization during action potential and hyperpolarization	membrane repolarization during cardiac muscle cell action potential
+Cardiomyocyte pacemaker current generation	SA node cell action potential
+Regulation of long-term synaptic plasticity	regulation of long-term neuronal synaptic plasticity
+Regulation of short-term synaptic plasticity	regulation of short-term neuronal synaptic plasticity
+Regulation of long-term potentiation	long-term synaptic potentiation
+Endoplasmic reticulum and nuclear envelope organization	nuclear envelope organization
+Structural golgi apparatus organization	Golgi organization
+Mitochondrial fusion	mitochondrial fusion
+Mitochondrial fission	mitochondrial fission
+Mitochondrial transport	mitochondrion transport along microtubule;axon transport of mitochondrion;mitochondrion migration along actin filament
+Mitochondrial cristae dynamics	cristae formation
+Peroxisomal transport	peroxisome transport along microtubule
+Regulation of cell morphogenesis	regulation of cell morphogenesis
+Regulation of cell shape	regulation of cell shape
+Regulation of cell size	regulation of cell size
+Regulation of cell number	homeostasis of number of cells
+Regulation of cell volume	cell volume homeostasis
+Regulation of cell polarity	establishment or maintenance of cell polarity;regulation of establishment or maintenance of cell polarity
+Cell cycle and cell division	cell cycle
+Mitotic cell cycle checkpoints	cell cycle checkpoint
+Restriction point	mitotic G1/S transition checkpoint
+G2 M transition checkpoint	mitotic G2/M transition checkpoint
+Metaphase to anaphase checkpoint	mitotic spindle checkpoint
+Cell cycle arrest in response to DNA damage	mitotic DNA damage checkpoint
+Mitotic spindle assembly	mitotic spindle assembly;mitotic spindle elongation;mitotic spindle stabilization
+Mitotic spindle disassembly	mitotic spindle disassembly;mitotic spindle microtubule depolymerization
+Eukaryotic kinetochore dynamics	attachment of mitotic spindle microtubules to kinetochore
+Sister chromatid cohesion	mitotic sister chromatid cohesion
+Sister chromatid segregation	mitotic sister chromatid segregation
+Centrosome cycle	centriole assembly;centrosome duplication;centrosome cycle
+Centrosome duplication	centriole replication
+Centrosome maturation	centriole elongation
+Centrosome separation	centrosome separation
+Cytokinesis	cytokinesis
+Contractile ring formation	actomyosin contractile ring assembly
+Contractile ring constriction	actomyosin contractile ring contraction
+Cell Scenescence	cellular senescence;regulation of cellular senescence
+Eukaryotic DNA replication	nuclear DNA replication
+DNA replication initiation	nuclear cell cycle DNA replication initiation
+Prereplicative complex formation	pre-replicative complex assembly
+DNA replication elongation	DNA strand elongation involved in DNA replication
+DNA recombination	DNA recombination;regulation of DNA recombination
+VDJ recombination	V(D)J recombination
+Class switch recombination	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains;regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+DNA single-strand break repair	single strand break repair
+Mismatch repair	mismatch repair
+Base excision repair	base-excision repair
+Nucleotide excision repair	nucleotide-excision repair;preincision complex assembly
+DNA double-strand break repair	double-strand break repair
+Non-homologous end joining DSB repair	double-strand break repair via classical nonhomologous end joining
+Homologous recombination DSB repair	double-strand break repair via homologous recombination
+Alternative end joining DSB repair	double-strand break repair via alternative nonhomologous end joining
+Single strand annealing DSB repair	double-strand break repair via single-strand annealing
+DNA interstrand cross-links repair	interstrand cross-link repair
+Mitochondrial DNA replication	mitochondrial DNA replication
+Mitochondrial DNA repair	mitochondrial DNA repair;mitochondrial double-strand break repair
+Cellular calcium homeostasis	cellular calcium ion homeostasis;calcium ion transport;regulation of calcium ion transmembrane transport;calcium ion transmembrane transport;calcium ion homeostasis;regulation of sequestering of calcium ion;endoplasmic reticulum calcium ion homeostasis;mitochondrial calcium ion homeostasis
+Cellular potassium homeostasis	cellular potassium ion homeostasis;potassium ion transmembrane transport;potassium ion homeostasis;regulation of potassium ion transmembrane transport;regulation of potassium ion transport
+Cellular sodium homeostasis	cellular sodium ion homeostasis;sodium ion transmembrane transport;sodium ion homeostasis;regulation of sodium ion transmembrane transport
+Cellular chloride homeostasis	chloride transmembrane transport
+Cellular magnesium homeostasis	magnesium ion transport
+Cellular pH homeostasis	regulation of intracellular pH;regulation of pH;regulation of cellular pH
+Bicarbonate transport across plasma membrane	bicarbonate transport
+Cellular phosphate homeostasis	phosphate ion homeostasis;phosphate ion transport;phosphate ion transmembrane transport
+Cellular copper homeostasis	cellular copper ion homeostasis;copper ion homeostasis;copper ion transport
+Cellular zinc homeostasis	zinc ion homeostasis
+Cellular sulfate homeostasis	sulfate transmembrane transport
+Cellular redox homeostasis	cell redox homeostasis
+Free radical generation for respiratory burst	respiratory burst
+Response to hypoxia	response to hypoxia;cellular response to hypoxia
+Organic anion transmembrane transport	organic anion transport
+Organic cation and zwitterion transmembrane transport	organic cation transport
+Oligopeptide homeostasis	peptide transport;regulation of peptide transport
+Nuclear protein export	protein export from nucleus;regulation of protein export from nucleus
+Nuclear protein import	protein import into nucleus;protein import into nucleus, translocation;regulation of protein import into nucleus;regulation of protein import into nucleus, translocation
+Nuclear pore complex organization	nuclear pore organization
+Peroxisomal protein import machinery	protein import into peroxisome matrix
+Anterograde vesicle traffic from ER to Golgi	vesicle fusion with Golgi cis cisterna membrane;ER to Golgi vesicle-mediated transport
+Vesicle biogenesis at ER membrane	COPII-coated vesicle budding
+Retrograde vesicle traffic from Golgi to ER	retrograde vesicle-mediated transport;Golgi to ER
+Vesicle biogenesis at cis-Golgi membrane	COPI coating of Golgi vesicle;cis-Golgi to rough ER; Golgi vesicle budding
+Microtubule assistance of vesicle traffic between Golgi and ER	vesicle transport along microtubule
+Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system	Golgi to endosome transport;Golgi to lysosome transport;trans-Golgi network to recycling endosome transport;clathrin coating of Golgi vesicle;trans-Golgi to endosome targeting
+Clathrin-mediated vesicle traffic from TGN to lysosome	Golgi to lysosome transport;clathrin coating of Golgi vesicle
+Retrograde vesicle traffic from endosome to TGN	retrograde transport;endosome to Golgi
+Vesicle transport within the Golgi	intra-Golgi vesicle-mediated transport;COPI coating of Golgi vesicle;inter-Golgi cisterna
+Vesicle exocytosis	exocytosis
+Microtubule-based secretory vesicle traffic	Golgi to plasma membrane transport;Golgi to secretory granule transport;vesicle transport along microtubule
+Vesicle tethering at plasma membrane	vesicle tethering involved in exocytosis;vesicle docking involved in exocytosis
+Vesicle fusion with plasma membrane	synaptic vesicle fusion to presynaptic membrane
+Exosome secretion	exosomal secretion
+Lipid droplet dynamics	lipid storage
+Endocytic pathway	plasma membrane to endosome transport;endocytic recycling;retrograde transport;endosome to plasma membrane;vesicle targeting;plasma membrane to endosome;plasma membrane to endosome transport;endocytic recycling;endocytic import into cell;ubiquitin-dependent endocytosis;synaptic vesicle recycling via endosome;early endosome to recycling endosome transport
+Caveolin-mediated endocytosis	caveolin-mediated endocytosis
+Clathrin-mediated endocytosis	clathrin-mediated endocytosis
+Early endosome dynamics	endosome organization
+Late endosome dynamics	endosome organization
+Recycling endosome dynamics	endosome organization
+Multivesicular body dynamics	multivesicular body organization;multivesicular body sorting pathway;ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway
+Phagocytosis	phagosome maturation;phagosome-lysosome docking
+Antigen presentation via MHC class II molecules	antigen processing and presentation following receptor mediated endocytosis
+Chromatin remodeling	chromatin remodeling
+Nucleosome assembly	nucleosome assembly
+Nucleosome disassembly	nucleosome disassembly
+Histone modification	histone modification;regulation of histone modification
+Histone methylation	histone methylation
+Histone demethylation	histone demethylation
+Histone acetylation	histone acetylation
+Histone deacetylation	histone acetylation
+Histone phosphorylation	histone phosphorylation
+Histone dephosphorylation	histone dephosphorylation
+Histone ubiquitination	histone ubiquitination
+Histone deubiquitination	histone deubiquitination
+Transcription	mRNA transcription
+Transcription by rna polymerase II	RNA Polymerase II core complex assembly
+Regulation of RNA polymerase II by elongation factors	transcription elongation from RNA polymerase II promoter
+Pre-mRNA capping	RNA capping
+Nuclear mRNA export	mRNA export from nucleus
+Pre-mRNA splicing	generation of catalytic spliceosome for first transesterification step;generation of catalytic spliceosome for second transesterification step
+U4-U6-U5 tri-snRNP assembly	spliceosomal tri-snRNP complex assembly
+snRNA transcription	snRNA transcription
+Cytoplasmic core snRNP assembly	cytoplasmic U snRNP body assembly
+Target RNA degradation, inhibition or destabilization by RICS or RITS	small RNA loading onto RISC
+Cytoplasmic mRNA polyadenylation	mRNA polyadenylation
+Nonsense-mediated mRNA decay pathway	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+rRNA transcription	rRNA transcription
+rRNA processing	rRNA processing
+Ribonucleoprotein assembly	ribonucleoprotein complex assembly
+Ribonucleoprotein nuclear export	ribonucleoprotein complex export from nucleus
+Ribonucleoprotein nuclear re-import	ribonucleoprotein complex import into nucleus
+mRNA translation	translation
+Translation initiation	cytoplasmic translational initiation
+Translation elongation	cytoplasmic translational elongation
+Translation termination	cytoplasmic translational termination
+tRNA amino acid activation	tRNA aminoacylation for protein translation
+Mitochondrial translation	mitochondrial translation
+Complement pathway and regulation	complement activation;regulation of complement activation
+Classical complement pathway	complement activation;classical pathway
+Alternative complement pathway	complement activation;alternative pathway
+Lectin complement pathway	complement activation;lectin pathway
+Membrane attack complex formation	activation of membrane attack complex
+Endogenous control of complement activity	negative regulation of complement activation
+Acute-phase response	acute-phase response
+Coagulation cascade	coagulation;regulation of coagulation
+Posttranslational protein modification	post-translational protein modification
+Chaperone mediated protein folding in ER	chaperone-mediated protein folding
+ER unfolded protein response pathway	endoplasmic reticulum unfolded protein response
+Endoplasmic reticulum quality control system	ERAD pathway
+Dolichol-mediated precursor oligosaccharide synthesis	dolichol-linked oligosaccharide biosynthetic process
+GPI-anchor synthesis and attachment to protein	GPI anchor biosynthetic process;attachment of GPI anchor to protein
+Protein O-linked glycosylation in Golgi Apparatus	protein O-linked glycosylation
+Protein prenylation	protein prenylation
+Protein palmitoylation	protein palmitoylation
+Post-translational protein modification in Mitochondria	mitochondrial protein processing
+Protein sumoyulation	protein sumoylation
+Protein neddylation	protein neddylation
+Protein deneddylation	protein deneddylation
+Cortical cytoskeleton dynamics	cortical actin cytoskeleton organization
+Actin polymerization	actin filament polymerization
+Actin filament severing and depolymerization	actin filament depolymerization;actin filament severing
+Actin filament depolymerization	actin filament depolymerization
+Actin filament severing	actin filament severing
+Actin filament nucleation and branching	actin filament branching;actin nucleation
+Actin filament nucleation	actin nucleation
+Actin filament branching	actin filament branching
+Actin filament capping	actin filament capping
+Actin filament plus end capping	barbed-end actin filament capping
+Actin filament minus end capping	pointed-end actin filament capping
+Actin filament bundling and crosslinking	actin crosslink formation;actin filament bundle assembly
+Microtubule dynamics	microtubule cytoskeleton organization
+Microtubule nucleation	microtubule nucleation
+Microtubule polymerization	microtubule polymerization
+Microtubule crosslinking and bundling	microtubule bundle formation
+Microtubule severing	microtubule severing
+Microtubule organization center dynamics	microtubule organizing center organization
+Centrosome organization	centrosome organization
+Cytoplasmic intermediate filament and septin dynamics	intermediate filament cytoskeleton organization
+Vimentin-like intermediate filament dynamics	intermediate filament cytoskeleton organization
+Desmin dynamics	intermediate filament cytoskeleton organization
+Glial fibrillary acidic protein dynamics	intermediate filament cytoskeleton organization
+Peripherin dynamics	intermediate filament cytoskeleton organization
+Vimentin dynamics	intermediate filament cytoskeleton organization
+Epithelial intermediate filament dynamics	intermediate filament cytoskeleton organization
+Acidic keratin dynamics	intermediate filament cytoskeleton organization
+Neutral and basic keratin dynamics	intermediate filament cytoskeleton organization
+Axonal intermediate filament dynamics	intermediate filament cytoskeleton organization
+Neurofilament dynamics	intermediate filament cytoskeleton organization
+Rolling cell adhesion	leukocyte tethering or rolling
+Cell-cell junction organization	cell-cell adhesion
+Adherens junction organization	adherens junction organization
+Desmosome organization	desmosome organization
+Tight junction organization	bicellular tight junction assembly
+Gap junction organization	gap junction assembly;bicellular tight junction assembly
+Cell-matrix adhesion organization	cell-matrix adhesion
+Hemidesmosome organization	hemidesmosome assembly
+Collagen fibril organization by fibril-associated bridges	collagen fibril organization
+Basement membrane assembly and organization	basement membrane organization
+Extracellular matrix breakdown	extracellular matrix disassembly;regulation of extracellular matrix disassembly
+Chondroitin sulfate and dermatan sulfate synthesis	chondroitin sulfate biosynthetic process;dermatan sulfate biosynthetic process
+Heparin and heparan sulfate synthesis	heparin biosynthetic process
+Amyloid generation and aggregation	regulation of beta-amyloid formation
+Amyloid precursor protein cleavage	regulation of amyloid precursor protein catabolic process
+Eukaryotic intraflagellar transport	intraciliary transport
+Filopodium organization	actin filament bundle assembly;actin filament bundle organization
+Lamellipodium organization	actin filament network formation
+Extrinsic apoptosis pathway	intrinsic apoptotic signaling pathway
+Intrinsic apoptosis pathway	extrinsic apoptotic signaling pathway
+Necroptosis	necrotic cell death;necroptotic process;programmed necrotic cell death
+Connection of muscle sarcomere to extracellular matrix	smooth muscle cell-matrix adhesion
+Thin myofilament organization	muscle thin filament assembly
+Sarcoplasmic reticulum organization	sarcomere organization
+Myofibril formation	myofibril assembly
+Autophagy	autophagy;regulation of autophagy
+Macroautophagy	macroautophagy;regulation of macroautophagy
+Mitophagy	activation of mitophagy in response to mitochondrial depolarization;macromitophagy;micromitophagy
+Protein polyubiquitination	protein polyubiquitination;regulation of protein polyubiquitination
+Proteasomal core organization	proteasomal protein catabolic process;proteasome core complex assembly
+Proteasomal regulatory particle organization	proteasome regulatory particle assembly
+Cellular response to stress	regulation of cellular response to stress
+Cellular response to hypoxia	response to hypoxia
+Cellular response to oxidative stress	response to oxidative stress
+Cellular response to radiation	cellular response to radiation
+Response to heat stress	cellular response to heat
+Glycolysis	canonical glycolysis
+Gluconeogenesis	gluconeogenesis
+Transmembrane glucose transport	glucose import across plasma membrane
+Glycogenolysis	glycolysis from storage polysaccharide through glucose-1-phosphate
+Mannose metabolism	mannose metabolic process
+Fructose metabolism	fructose metabolic process
+Pentose phosphate pathway	pentose-phosphate shunt
+Oxidative phase of pentose phosphate pathway	pentose-phosphate shunt;oxidative branch
+Non-oxidative phase of pentose phosphate pathway	pentose-phosphate shunt;non-oxidative branch
+UDP-Glucose metabolism	UDP-glucose metabolic process
+Monocarboxylate transmembrane transport	monocarboxylic acid transport
+Electron transport chain	mitochondrial ATP synthesis coupled electron transport;oxidative phosphorylation
+Malate-aspartate shuttle	malate-aspartate shuttle
+Urea cycle	urea cycle
+Mitochondrial urea cycle reactions	urea cycle
+Cytoplasmic urea cycle reactions	urea cycle
+Amine transmembrane transport	regulation of amine transport
+Transmembrane transport of neutral amino acids	neutral amino acid transport
+Transmembrane transport of anionic amino acids	acidic amino acid transport
+Transmembrane transport of cationic amino acids	basic amino acid transport
+Serine and glycine metabolism	serine family amino acid metabolic process;lysine metabolic process
+Proline metabolism	proline metabolic process
+Aspartate and arginine metabolism	aspartate family amino acid metabolic process;arginine metabolic process
+Glutamate and glutamine metabolism	glutamate metabolic process;glutamine metabolic process
+Glutamate transport across vesicle membrane	L-glutamate transport
+Tyrosine metabolism	tyrosine metabolic process
+Glyoxylate metabolism	glyoxylate metabolic process
+Lysine metabolism	lysine metabolic process
+Valine catabolism	valine metabolic process
+Phenylalanine catabolism	L-phenylalanine catabolic process
+Tryptophan metabolism	tryptophan metabolic process
+Methionine cycle	methionine metabolic process
+Catecholamine metabolism	catecholamine metabolic process
+Catecholamine synthesis	catecholamine biosynthetic process
+Thyroid-hormone synthesis	thyroid hormone generation
+Serotonin and melatonin synthesis	serotonin metabolic process
+De-novo synthesis of purines	purine nucleotide biosynthetic process
+Purine salvage	purine nucleotide salvage
+Pyrimidine salvage	pyrimidine nucleoside salvage
+De-novo synthesis of pyrimidines	pyrimidine nucleotide biosynthetic process
+Pyrimidine catabolism	pyrimidine nucleotide catabolic process
+Purine catabolism	purine deoxyribonucleotide catabolic process
+Fatty acid metabolism	fatty acid metabolic process
+Beta-oxidation	fatty acid beta-oxidation
+Mitochondrial beta-oxidation	fatty acid beta-oxidation
+Peroxisomal beta-oxidation	fatty acid beta-oxidation
+Fatty acid omega-hydroxylation	fatty acid omega-oxidation
+Fatty acid transport by Carnitine shuttle	carnitine shuttle
+Fatty acid elongation	fatty acid elongation
+Desaturation of fatty acids	fatty acid metabolic process
+Eicosanoid metabolism	icosanoid metabolic process
+Prostanoid metabolism	prostanoid metabolic process
+Leukotriene metabolism	leukotriene metabolic process
+Epoxide metabolism	epoxygenase P450 pathway
+Triacylglycerol metabolism and transport	triglyceride metabolic process;triglyceride transport
+Triacylglycerol metabolism	triglyceride metabolic process
+Triacylglycerol biosynthesis	triglyceride biosynthetic process
+Triacylglycerol catabolism	triglyceride catabolic process
+Triacylglycerol hydrolysis and mobilization	triglyceride mobilization
+Extracellular triacylglycerol hydrolysis	triglyceride mobilization
+Intracellular triacylglycerol mobilization	triglyceride mobilization
+Membrane lipid metabolism	membrane lipid metabolic process
+Phosphoglyceride biosynthesis	glycerophospholipid biosynthetic process
+Phosphatidylcholine and phosphatidylethanolamine biosynthesis via Kennedy pathway	CDP-choline pathway;phosphatidylcholine biosynthesis from choline and CDP-diacylglycerol
+Phosphatidylcholine, phoshpatidylethanolamine and phosphatidylserine interconversion	phosphatidylcholine biosynthesis from phosphatidylethanolamine;phosphatidylserine biosynthetic process
+Phosphatidylinositol biosynthesis	phosphatidylinositol biosynthetic process
+Sphingolipid metabolism	sphingolipid metabolic process
+Ceramide biosynthesis	ceramide metabolic process
+Ganglioside biosynthesis	Ganglioside biosynthesis
+Sphingomyelin metabolism	Sphingomyelin metabolism
+Vitamin D metabolism	vitamin D metabolic process
+Cholesterol synthesis	cholesterol biosynthetic process
+Cholesterol esterification	cholesterol esterification
+Cholesterol-sensitive control of SREBP activation	SREBP signaling pathway
+Bile acid synthesis from cholesterol	bile acid biosynthetic process
+Steroid hormone synthesis	steroid biosynthetic process
+Glucocorticoid and Mineralocorticoid synthesis	glucocorticoid biosynthetic process;mineralocorticoid biosynthetic process
+Androgen synthesis	androgen biosynthetic process
+Estrogen synthesis	estrogen biosynthetic process
+Cobalamin metabolism	cobalamin metabolic process
+Hemoglobin synthesis	hemoglobin biosynthetic process
+Cellular iron uptake	mitochondrial iron ion transport
+RNS Detoxification	cellular response to reactive oxygen species;response to reactive oxygen species
+Regulation of T cell differentiation	T cell differentiation;regulation of T cell differentiation
+Regulation of B cell differentiation	B cell differentiation;regulation of B cell differentiation
+Regulation of natural killer cell differentiation	natural killer cell differentiation;regulation of natural killer cell differentiation
+Regulation of myeloid cell differentiation	myeloid cell differentiation;regulation of myeloid cell differentiation
+Regulation of erythrocyte cell differentiation	erythrocyte differentiation;regulation of erythrocyte differentiation
+Regulation of megakaryocyte differentiation	regulation of megakaryocyte differentiation
+Regulation of granulocyte differentiation	granulocyte differentiation;regulation of granulocyte differentiation
+Regulation of monocyte differentiation	monocyte differentiation;regulation of monocyte differentiation
+Regulation of myocyte cell differentiation	myoblast differentiation
+Regulation of cardiomyocyte cell differentiation	cardiac muscle cell differentiation
+Regulation of smooth muscle cell differentiation	smooth muscle cell differentiation;regulation of smooth muscle cell differentiation
+Regulation of skeletal muscle cell differentiation	skeletal muscle cell differentiation;
+Regulation of hepatocyte differentiation	hepatocyte differentiation
+Regulation of osteoclast differentiation	osteoclast differentiation;regulation of osteoclast differentiation
+Regulation of osteoblast differentiation	osteoblast differentiation;regulation of osteoblast differentiation
+Regulation of astrocyte differentiation	astrocyte differentiation;regulation of astrocyte differentiation
+Regulation of oligodendrocyte differentiation	oligodendrocyte differentiation;regulation of oligodendrocyte differentiation
+Regulation of neuron cell differentiation	neuron differentiation
+Regulation of rod photoreceptor cell differentiation	retinal rod cell development
+Regulation of cone photoreceptor cell differentiation	retinal cone cell development
+Regulation of spermatogenesis	spermatogenesis
+Regulation of oogenesis	oogenesis
+Regulation of white adipocyte differentiation	white fat cell differentiation
+Regulation of brown adipocyte differentiation	brown fat cell differentiation
+Regulation of chondrocyte cell differentiation	chondrocyte differentiation;regulation of chondrocyte differentiation
+Regulation of inner hair cell differentiation	inner ear receptor cell differentiation
+Regulation of odontogenesis	odontogenesis
+Free fatty acid release from chylomicrons	chylomicron remodeling
+Chylomicron remnant clearance	chylomicron remnant clearance
+Free fatty acid release from VLDL particles	very-low-density lipoprotein particle remodeling
+IDL particle clearance	intermediate-density lipoprotein particle clearance
+IDL particle remodeling to LDL particle	intermediate-density lipoprotein particle remodeling
+Binding of Spermatoza to the Zona Pellucida	binding of sperm to zona pellucida;sperm-egg recognition
+Acrosomal Reaction	acrosome reaction

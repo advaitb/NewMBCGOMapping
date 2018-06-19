@@ -1,0 +1,99 @@
+Steroid and sex hormone signaling::intracellular steroid hormone receptor signaling pathway	0.12631578947368421
+Steroid and sex hormone signaling::regulation of intracellular steroid hormone receptor signaling pathway	0.03571428571428571
+TNF superfamily signaling::tumor necrosis factor-mediated signaling pathway	0.14285714285714285
+Control of postsynaptic potential::regulation of postsynaptic membrane potential	0.088
+Cardiomyocyte action potential generation and propagation::cardiac muscle cell action potential	0.16666666666666666
+Endoplasmic reticulum and nuclear envelope organization::nuclear envelope organization	0.02857142857142857
+Mitotic cell cycle checkpoints::cell cycle checkpoint	0.19617224880382775
+Centrosome cycle::centriole assembly	0.13114754098360656
+Centrosome cycle::centrosome duplication	0.078125
+Centrosome cycle::centrosome cycle	0.0
+Cytokinesis::cytokinesis	0.14754098360655737
+Cell Scenescence::cellular senescence	0.057971014492753624
+Cell Scenescence::regulation of cellular senescence	0.016666666666666666
+Eukaryotic DNA replication::nuclear DNA replication	0.0
+DNA recombination::DNA recombination	0.11363636363636363
+DNA recombination::regulation of DNA recombination	0.07446808510638298
+DNA single-strand break repair::single strand break repair	0.05747126436781609
+DNA double-strand break repair::double-strand break repair	0.27058823529411763
+DNA interstrand cross-links repair::interstrand cross-link repair	0.0
+Cellular calcium homeostasis::cellular calcium ion homeostasis	0.09722222222222222
+Cellular calcium homeostasis::calcium ion transport	0.18421052631578946
+Cellular calcium homeostasis::regulation of calcium ion transmembrane transport	0.08421052631578947
+Cellular calcium homeostasis::calcium ion transmembrane transport	0.2119205298013245
+Cellular calcium homeostasis::calcium ion homeostasis	0.09302325581395349
+Cellular calcium homeostasis::regulation of sequestering of calcium ion	0.07407407407407407
+Cellular calcium homeostasis::endoplasmic reticulum calcium ion homeostasis	0.02857142857142857
+Cellular calcium homeostasis::mitochondrial calcium ion homeostasis	0.04477611940298507
+Cellular potassium homeostasis::cellular potassium ion homeostasis	0.06666666666666667
+Cellular potassium homeostasis::potassium ion transmembrane transport	0.3120567375886525
+Cellular potassium homeostasis::potassium ion homeostasis	0.09230769230769231
+Cellular potassium homeostasis::regulation of potassium ion transmembrane transport	0.08641975308641975
+Cellular potassium homeostasis::regulation of potassium ion transport	0.08080808080808081
+Cellular sodium homeostasis::cellular sodium ion homeostasis	0.12903225806451613
+Cellular sodium homeostasis::sodium ion transmembrane transport	0.15555555555555556
+Cellular sodium homeostasis::sodium ion homeostasis	0.1794871794871795
+Cellular sodium homeostasis::regulation of sodium ion transmembrane transport	0.034482758620689655
+Cellular chloride homeostasis::chloride transmembrane transport	0.23529411764705882
+Cellular magnesium homeostasis::magnesium ion transport	0.0
+Cellular pH homeostasis::regulation of intracellular pH	0.08
+Cellular pH homeostasis::regulation of pH	0.15730337078651685
+Cellular pH homeostasis::regulation of cellular pH	0.07792207792207792
+Cellular phosphate homeostasis::phosphate ion homeostasis	0.26666666666666666
+Cellular phosphate homeostasis::phosphate ion transport	0.375
+Cellular phosphate homeostasis::phosphate ion transmembrane transport	0.3333333333333333
+Cellular copper homeostasis::cellular copper ion homeostasis	0.2
+Cellular copper homeostasis::copper ion homeostasis	0.22727272727272727
+Cellular copper homeostasis::copper ion transport	0.5
+Cellular zinc homeostasis::zinc ion homeostasis	0.2631578947368421
+Free radical generation for respiratory burst::respiratory burst	0.125
+Response to hypoxia::response to hypoxia	0.02032520325203252
+Response to hypoxia::cellular response to hypoxia	0.0380952380952381
+Peroxisomal protein import machinery::protein import into peroxisome matrix	0.3076923076923077
+Vesicle exocytosis::exocytosis	0.16666666666666666
+Lipid droplet dynamics::lipid storage	0.12280701754385964
+Endocytic pathway::plasma membrane to endosome transport	0.0
+Endocytic pathway::endocytic recycling	0.04716981132075472
+Endocytic pathway::retrograde transport	0.0
+Endocytic pathway::endosome to plasma membrane	0.0
+Endocytic pathway::vesicle targeting	0.004545454545454545
+Endocytic pathway::plasma membrane to endosome	0.0
+Endocytic pathway::plasma membrane to endosome transport	0.0
+Endocytic pathway::endocytic recycling	0.04716981132075472
+Endocytic pathway::endocytic import into cell	0.0
+Endocytic pathway::ubiquitin-dependent endocytosis	0.0
+Endocytic pathway::synaptic vesicle recycling via endosome	0.0
+Endocytic pathway::early endosome to recycling endosome transport	0.0
+Chromatin remodeling::chromatin remodeling	0.2347417840375587
+Histone modification::histone modification	0.3305084745762712
+Histone modification::regulation of histone modification	0.09561752988047809
+Transcription::mRNA transcription	0.00684931506849315
+Pre-mRNA splicing::generation of catalytic spliceosome for first transesterification step	0.0
+Pre-mRNA splicing::generation of catalytic spliceosome for second transesterification step	0.0
+mRNA translation::translation	0.12658227848101267
+Complement pathway and regulation::complement activation	0.15544041450777202
+Complement pathway and regulation::regulation of complement activation	0.29310344827586204
+Protein prenylation::protein prenylation	0.1724137931034483
+Post-translational protein modification in Mitochondria::mitochondrial protein processing	0.0
+Microtubule dynamics::microtubule cytoskeleton organization	0.1314878892733564
+Microtubule organization center dynamics::microtubule organizing center organization	0.17518248175182483
+Cytoplasmic intermediate filament and septin dynamics::intermediate filament cytoskeleton organization	0.20512820512820512
+Rolling cell adhesion::leukocyte tethering or rolling	0.06666666666666667
+Cell-cell junction organization::cell-cell adhesion	0.0880281690140845
+Cell-matrix adhesion organization::cell-matrix adhesion	0.11242603550295859
+Extracellular matrix breakdown::extracellular matrix disassembly	0.12698412698412698
+Extracellular matrix breakdown::regulation of extracellular matrix disassembly	0.029411764705882353
+Amyloid generation and aggregation::regulation of beta-amyloid formation	0.07894736842105263
+Necroptosis::necrotic cell death	0.21875
+Necroptosis::necroptotic process	0.2222222222222222
+Necroptosis::programmed necrotic cell death	0.22580645161290322
+Autophagy::autophagy	0.25136612021857924
+Autophagy::regulation of autophagy	0.125
+Monocarboxylate transmembrane transport::monocarboxylic acid transport	0.05454545454545454
+Fatty acid metabolism::fatty acid metabolic process	0.2347560975609756
+Triacylglycerol metabolism and transport::triglyceride metabolic process	0.1702127659574468
+Triacylglycerol metabolism and transport::triglyceride transport	0.0
+Membrane lipid metabolism::membrane lipid metabolic process	0.14754098360655737
+Steroid hormone synthesis::steroid biosynthetic process	0.17391304347826086
+Regulation of myocyte cell differentiation::myoblast differentiation	0.007194244604316547
+Regulation of odontogenesis::odontogenesis	0.13846153846153847
